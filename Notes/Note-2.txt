@@ -1,0 +1,12 @@
+ctl+/ = single line command
+shift+Alt+A = multiline command
+
+zod library to check the datatype error in run time = npx ts-node Day-1/DataTypes.ts
+
+npm install --save-dev @types/node => Node package to get the input from user
+
+Run a file directly:-
+
+npx ts-node .\Day-1\practise.ts
+
+node .\Day-1\practise_Fun.ts

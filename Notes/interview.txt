@@ -1,0 +1,10 @@
+aaaabbbbaaaaccccbbsdddddd
+
+how many characters are present
+
+third highest
+ repeative words and non repeative words
+ open a file how may testcases how many pass and how many fail
+ longest palinfrome
+ longest palindrome in a single words
+ if capital word present need to put space in a sentence
